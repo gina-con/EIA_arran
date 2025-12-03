@@ -6,7 +6,7 @@ library(ggVennDiagram)
 library(gt)
 
 #south 
-#subsetting
+#subsetting by eventID for South Site AudioMoths
 
 sparentid_bat <- c("S3CR_A", "S2CR_A", "S2CR_B", "S3CR_B", "S3CR_C")
 batdata_south <- batdata %>% 
@@ -14,13 +14,13 @@ batdata_south <- batdata %>%
 
 
 #north
-#subsetting
+#subsetting by eventID for North Site AudioMoths
 
 nparentid_bat <- c("N3CR_A", "N2CR_B", "N2CR_A", "N3CR_B", "N1CR_C", "N1CR_B")
 batdata_north <- batdata %>% 
   filter(eventID %in% nparentid_bat)
 
-#analysis south
+#analysis south - retrieving unique species
 unique_species_bat_south <- batdata_south%>% 
   distinct(scientificName, .keep_all = TRUE)
 
@@ -31,13 +31,13 @@ south_bat_dataframe <- data.frame(Site = "South", Species = species_bat_south, "
 south_bat_df_for_fig <- data.frame(Taxa = "Mammal - Bats", Site = "South", Species = species_bat_south,
                                   check.rows=TRUE)
 #some are not unique, maybe due to spelling differences?
-#row 5, 6 
+#row 5, 6 removed
 
 south_bat_dataframe <- south_bat_dataframe[-c(5,6),]
 south_bat_df_for_fig <- south_bat_df_for_fig[-c(5,6),]
 south_bat_dataframe
 
-#analysis north
+#analysis north - retrieving unique species
 unique_species_bat_north <- batdata_north%>% 
   distinct(scientificName, .keep_all = TRUE)
 
@@ -48,7 +48,7 @@ north_bat_dataframe <- data.frame(Site = "North", Species = species_bat_north, "
 north_bat_df_for_fig <- data.frame(Taxa = "Mammal - Bats", Site = "North", Species = species_bat_north,
                                    check.rows=TRUE)
 north_bat_dataframe
-#2 and 3 some are not unique due to spelling difference 
+#2 and 3 some are not unique due to spelling difference, removing 
 north_bat_dataframe <- north_bat_dataframe[-3,]
 north_bat_df_for_fig <- north_bat_dataframe[-3,]
 

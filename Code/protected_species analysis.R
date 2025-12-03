@@ -153,6 +153,7 @@ colnames(NBN_south_rspb_vernacular) <- c("Species", "Class", "Status")
 NBN_south_rspb_vernacular
 
 #creating dataframe with species listed on the Scottish Biodiversity List
+#NBN Atlas occurrence download at https://nbnatlas.org accessed on [21st November 2025].
 #no records on nbn
 
 #creating dataframe with species listed as Invasive

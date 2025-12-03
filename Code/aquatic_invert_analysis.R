@@ -6,12 +6,12 @@ library(ggVennDiagram)
 
 #south
 #----
-#subsetting 
+#subsetting by eventID for South Site surveys
 sparentid_kicksampling <- c('SD4FI_A', 'SU4FI_A','SD4FI_B','SU4FI_B')
 
 aidata_kicksampling_south <- aidata %>% 
   filter(eventID %in% sparentid_kicksampling)
-#analysis 
+#analysis - creating database with unique common names to remove duplicates
 unique_species_kicksampling_south <- aidata_kicksampling_south %>% 
   distinct(Commonname, .keep_all = TRUE)
 
@@ -30,13 +30,13 @@ south_kicksampling_dataframe
 
 #north
 #----
-#subsetting
+#subsetting by eventID for North Site surveys
 nparentid_kicksampling <- c('ND4FI_A', 'NU3FI_A','ND4FI_B','NU3FI_B')
 
 aidata_kicksampling_north <- aidata %>% 
   filter(eventID %in% nparentid_kicksampling)
 
-#analysis
+#analysis - creating database with unique common names to remove duplicates
 unique_species_kicksampling_north <- aidata_kicksampling_north %>% 
   distinct(Commonname, .keep_all = TRUE)
 
@@ -65,7 +65,7 @@ library(gt)
 gt(south_kicksampling_dataframe)
 gt(north_kicksampling_dataframe)
 
-#for combined data set
+#creating simple dataset of unique on each site for combined data set
 aquatic_unique_south <- data.frame(Taxa = "Aquatic Invertebrates", 
                                        Site = "South",
                                        Order = unique_south_aquatic)
