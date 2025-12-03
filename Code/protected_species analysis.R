@@ -174,6 +174,9 @@ gt(NBN)
 #SCOTTISH BIODIVERSITY LIST
 #relevant taxons from Scottish Biodiversity List, filtered by 'Avoid negative impacts' = Yes
 #reading in data
+#accessed from https://web.archive.org/web/20240422023328/https://www.nature.scot/doc/scottish-biodiversity-list
+#on 22nd November 2025
+#published 2020
 scottish_biodiversity_list <- read.csv('Data/biodiversity_list_avoid.csv', header=TRUE)
 
 #subsetting into a bird species dataframe
