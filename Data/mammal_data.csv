@@ -1,0 +1,16 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude N,Longitude W,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode,Comments
+S3MR,S3MR_1,CameraTrap,2025-09-11,Animalia,Rodentia,Sciurus_vulgaris,Red_Squirrel,Species,1,1,Individual,Present,N55 41.9514,W005 17.1183,N/A,,,WGS84,SCO,
+N2MR,N2MR_1,CameraTrap,2025-09-10,No records,No records,No_records,No_records,No_records,0,0,Individual,Absent,N55 42.4557,W005 16.7673,N/A,,,WGS84,SCO,
+S3MR,S3MR_2,CameraTrap,2025-09-10,No records,No records,No_records,No_records,No_records,0,0,Individual,Absent,N55 41.7858,W005 16.8804,N/A,,,WGS84,SCO,
+N3MR,N3MR_1,CameraTrap,2025-09-10,No records,No records,No_records,No_records,No_records,0,0,Individual,Absent,N55 42.4376,W005 16.8605,N/A,,,WGS84,SCO,
+N1MR,N1MR_1,Humanobservation,2025-09-09,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Individual,Present,N55 42.4428,W005 16.5666,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N1MR,N1MR_2,Humanobservation,2025-09-09,Animalia,Mammalia,Ovis_sp,Domestic_sheep,Genus,1,1,Individual,Present,N55 42.5399,W005 16.6830,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_2,Humanobservation,2025-09-10,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Individual,Present,N55 42.3736,W005 16.1118,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N2MR,N2MR_3,Humanobservation,2025-09-10,Animalia,Mammalia,Ovis_sp,Domestic_sheep,Genus,1,1,Individual,Present,N55 42.3495,W005 16.1897,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_4,Humanobservation,2025-09-11,Animalia,Mammalia,Meles meles,Badger,Species,1,1,Individual,Present,N55 42.4285,W005 16.7205,N/A,,,WGS84,SCO,
+N3MR,N3MR_2,Humanobservation,2025-09-12,Animalia,Rodentia,Sciurus_vulgaris,Red_Squirrel,Species,2,2,Individual,Present,N55 42.1970,W005 16.7278,N/A,,,WGS84,SCO,
+N3MR,N3MR_3,Humanobservation,2025-09-12,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Individual,Present,N55 42.1970,W005 16.7278,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+S1MR,S1MR_1,Humanobservation,2025-09-11,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Faeces,Present,N55 41.8872,W005 17.0055,N/A,,,WGS84,SCO,Just faeces
+S2MR,S2MR_1,Humanobservation,2025-09-10,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Individual,Present,N55 41.8260,W005 17.1029,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Mammalia,Ovis_sp,Domestic_sheep,Genus,1,1,Individual,Present,N55 42.0129,W005 17.0993,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Mammalia,Cervus_elaphus,Red_dear,Species,1,1,Individual,Present,N55 42.0129,W005 17.0993,N/A,,,WGS84,SCO,"Many ind, faeces as well"

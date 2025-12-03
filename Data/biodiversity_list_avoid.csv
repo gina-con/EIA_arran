@@ -1,0 +1,356 @@
+Main group,Taxon group,Scientific Name,Common name,Threatened species,Legally protected species
+Mammals,land mammal,Arvicola amphibius,Water Vole,-,WCA 1981
+Mammals,land mammal,Felis silvestris,Wildcat,-,"EPS 1,2,3"
+Mammals,land mammal,Lepus timidus,Mountain Hare,-,HR 1994 3
+Mammals,land mammal,Lutra lutra,Otter,NT,"EPS 1,2,3"
+Mammals,land mammal,Martes martes,Pine Marten,-,"HR 1994 2,3"
+Mammals,land mammal,Mustela putorius,Polecat,-,HR 1994 3
+Mammals,land mammal,Myotis brandtii,Brandt's Bat,-,"EPS 1,2,3"
+Mammals,land mammal,Myotis daubentonii,Daubenton's Bat,-,"EPS 1,2,3"
+Mammals,land mammal,Myotis mystacinus,Whiskered Bat,-,"EPS 1,2,3"
+Mammals,land mammal,Myotis nattereri,Natterer's Bat,-,"EPS 1,2,3"
+Mammals,land mammal,Nyctalus noctula,Noctule,-,"EPS 1,2,3"
+Mammals,land mammal,Pipistrellus nathusii,Nathusius's Pipistrelle,-,"EPS 1,2,3"
+Mammals,land mammal,Pipistrellus pipistrellus,Pipistrelle,-,"EPS 1,2,3"
+Mammals,land mammal,Pipistrellus pygmaeus,Soprano Pipistrelle,-,"EPS 1,3"
+Mammals,land mammal,Plecotus auritus,Brown Long-eared Bat,-,"EPS 1,2,3"
+Mammals,land mammal,Sciurus vulgaris,Red Squirrel,-,WCA 1981
+Birds,bird,Acrocephalus scirpaceus,Reed Warbler,-,ELD
+Birds,bird,Alauda arvensis,Sky Lark,Red,ELD
+Birds,bird,Alcedo atthis,Kingfisher,Amber,WCA 1981 3
+Birds,bird,Anas querquedula,Garganey,Amber,WCA 1981 3
+Birds,bird,Anser albifrons,Greenland White-fronted Goose,-,ELD
+Birds,bird,Anser fabalis,Bean Goose,Amber,ELD
+Birds,bird,Anthus trivialis,Tree Pipit,Red,ELD
+Birds,bird,Apus apus,Swift,Amber,ELD
+Birds,bird,Aquila chrysaetos,Golden Eagle,Amber,WCA 1981 3
+Birds,bird,Asio flammeus,Short-eared Owl,Amber,ELD
+Birds,bird,Aythya ferina,Pochard,Amber,ELD
+Birds,bird,Aythya marila,Scaup,Red,WCA 1981 3
+Birds,bird,Botaurus stellaris,Bittern,Red,WCA 1981 3
+Birds,bird,Branta leucopsis,Barnacle Goose,Amber,ELD
+Birds,bird,Calidris alpina,Dunlin,Red,ELD
+Birds,bird,Calidris maritima,Purple Sandpiper,Amber,WCA 1981 3
+Birds,bird,Calidris temminckii,Temminck's Stint,Red,WCA 1981 3
+Birds,bird,Caprimulgus europaeus,Nightjar,Red,ELD
+Birds,bird,Carduelis cabaret,Lesser Redpoll,Red,ELD
+Birds,bird,Carduelis cannabina,Linnet,Red,ELD
+Birds,bird,Carduelis spinus,Siskin,-,ELD
+Birds,bird,Carpodacus erythrinus,Common Rosefinch,-,WCA 1981 3
+Birds,bird,Charadrius morinellus,Dotterel,Amber,WCA 1981 3
+Birds,bird,Circus aeruginosus,Marsh Harrier,Amber,ELD
+Birds,bird,Circus cyaneus,Hen Harrier,Red,ELD
+Birds,bird,Crex crex,Corn Crake,Red,WCA 1981 3
+Birds,bird,Cuculus canorus,Cuckoo,Red,ELD
+Birds,bird,Cygnus columbianus,Bewick's Swan,Amber,WCA 1981 3
+Birds,bird,Cygnus cygnus,Whooper Swan,Amber,WCA 1981 3
+Birds,bird,Falco columbarius,Merlin,Amber,WCA 1981 3
+Birds,bird,Falco peregrinus,Peregrine Falcon,-,WCA 1981 3
+Birds,bird,Falco subbuteo,Hobby,-,WCA 1981 3
+Birds,bird,Falco tinnunculus,Kestrel,Amber,ELD
+Birds,bird,Fringilla montifringilla,Brambling,-,WCA 1981 3
+Birds,bird,Gavia arctica,Black-throated Diver,Amber,ELD
+Birds,bird,Gavia immer,Great Northern Diver,Amber,ELD
+Birds,bird,Gavia stellata,Red-throated Diver,Amber,ELD
+Birds,bird,Haliaeetus albicilla,White-tailed Eagle,Red,WCA 1981 3
+Birds,bird,Hydrobates pelagicus,Storm-petrel,Amber,ELD
+Birds,bird,Jynx torquilla,Wryneck,Red,WCA 1981 3
+Birds,bird,Lanius collurio,Red-backed Shrike,Red,WCA 1981 3
+Birds,bird,Larus argentatus,Herring Gull,Red,ELD
+Birds,bird,Larus ridibundus,Black-headed Gull,Amber,ELD
+Birds,bird,Limosa lapponica,Bar-tailed Godwit,Amber,ELD
+Birds,bird,Limosa limosa,Black-tailed Godwit,Red,WCA 1981 3
+Birds,bird,Locustella naevia,Grasshopper Warbler,Red,ELD
+Birds,bird,Loxia pytyopsittacus,Parrot Crossbill,Amber,ELD
+Birds,bird,Melanitta nigra,Common Scoter,Red,WCA 1981 3
+Birds,bird,Mergellus albellus,Smew,Amber,ELD
+Birds,bird,Milvus milvus,Red Kite,Amber,WCA 1981 3
+Birds,bird,Motacilla flava,Yellow Wagtail,Red,ELD
+Birds,bird,Muscicapa striata,Spotted Flycatcher,Red,ELD
+Birds,bird,Numenius arquata,Curlew,Amber,ELD
+Birds,bird,Oceanodroma leucorhoa,Leach's Storm-petrel,Amber,WCA 1981 3
+Birds,bird,Pandion haliaetus,Osprey,Amber,WCA 1981 3
+Birds,bird,Panurus biarmicus,Bearded Tit,Amber,WCA 1981
+Birds,bird,Perdix perdix,Grey Partridge,Red,ELD
+Birds,bird,Pernis apivorus,Honey-buzzard,Amber,WCA 1981 3
+Birds,bird,Phalaropus lobatus,Red-necked Phalarope,Red,WCA 1981 3
+Birds,bird,Philomachus pugnax,Ruff,Red,WCA 1981 3
+Birds,bird,Phylloscopus sibilatrix,Wood Warbler,Red,ELD
+Birds,bird,Plectrophenax nivalis,Snow Bunting,Amber,WCA 1981 3
+Birds,bird,Pluvialis apricaria,Golden Plover,Amber,ELD
+Birds,bird,Podiceps auritus,Slavonian Grebe,Amber,WCA 1981 3
+Birds,bird,Podiceps grisegena,Red-necked Grebe,Amber,ELD
+Birds,bird,Podiceps nigricollis,Black-necked Grebe,Amber,WCA 1981 3
+Birds,bird,Porzana porzana,Spotted Crake,Amber,WCA 1981 3
+Birds,bird,Puffinus mauretanicus,Balearic Shearwater,CR,ELD
+Birds,bird,Puffinus puffinus,Manx Shearwater,Amber,ELD
+Birds,bird,Pyrrhocorax pyrrhocorax,Red-billed Chough,Amber,WCA 1981 3
+Birds,bird,Scolopax rusticola,Woodcock,Amber,ELD
+Birds,bird,Stercorarius parasiticus,Arctic Skua,Red,ELD
+Birds,bird,Sterna dougallii,Roseate Tern,Red,WCA 1981 3
+Birds,bird,Sterna hirundo,Common Tern,Amber,ELD
+Birds,bird,Sterna paradisaea,Arctic Tern,Amber,ELD
+Birds,bird,Sterna sandvicensis,Sandwich Tern,Amber,ELD
+Birds,bird,Sternula albifrons,Little Tern,Amber,WCA 1981 3
+Birds,bird,Streptopelia turtur,Turtle Dove,Red,ELD
+Birds,bird,Sturnus vulgaris subsp. vulgaris,Starling,-,ELD
+Birds,bird,Tetrao tetrix,Black Grouse,Red,ELD
+Birds,bird,Tetrao urogallus,Capercaillie,Red,WCA 1981 3
+Birds,bird,Tringa glareola,Wood Sandpiper,Amber,WCA 1981 3
+Birds,bird,Tringa ochropus,Green Sandpiper,Amber,WCA 1981 3
+Birds,bird,Troglodytes troglodytes subsp. fridariensis,Fair Isle Wren,Red,ELD
+Birds,bird,Troglodytes troglodytes subsp. hirtensis,St Kilda Wren,Red,-
+Birds,bird,Turdus iliacus,Redwing,Red,WCA 1981 3
+Birds,bird,Turdus philomelos,Song Thrush,Red,ELD
+Birds,bird,Turdus torquatus,Ring Ouzel,Red,ELD
+Birds,bird,Tyto alba,Barn Owl,Amber,WCA 1981
+Birds,bird,Vanellus vanellus,Northern Lapwing,Red,ELD
+Terrestrial invertebrates,insect - beetle (Coleoptera),Chrysanthia nigricornis,a false blister beetle,EN,-
+Terrestrial invertebrates,insect - beetle (Coleoptera),Cryptocephalus decemmaculatus,Ten-spotted Pot Beetle,VU,-
+Terrestrial invertebrates,insect - beetle (Coleoptera),Cryptocephalus sexpunctatus,Six-spotted Pot Beetle,VU,-
+Terrestrial invertebrates,insect - beetle (Coleoptera),Philorhizus quadrisignatus,Mab's Lantern,EN,-
+Terrestrial invertebrates,insect - butterfly,Aricia artaxerxes,Northern Brown Argus,VU,WCA 1981
+Terrestrial invertebrates,insect - butterfly,Boloria euphrosyne,Pearl-bordered Fritillary,EN,WCA 1981
+Terrestrial invertebrates,insect - butterfly,Carterocephalus palaemon,Chequered Skipper,EN,WCA 1981
+Terrestrial invertebrates,insect - butterfly,Coenonympha tullia,Large Heath,VU,WCA 1981
+Terrestrial invertebrates,insect - butterfly,Cupido minimus,Small Blue,NT,WCA 1981
+Terrestrial invertebrates,insect - butterfly,Erebia epiphron,Small Mountain Ringlet,NT,WCA 1981
+Terrestrial invertebrates,insect - hymenopteran,Formica exsecta,Narrow-headed Ant,EN,-
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Melanosmia) inermis,a Mason Bee,VU,-
+Terrestrial invertebrates,insect - hymenopteran,Osmia (Melanosmia) uncinata,a Mason Bee,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Centromerus levitarsis,a money spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Clubiona subsultans,a spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Dictyna major,a mesh-webbed spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Dipoena torva,a spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Haplodrassus soerenseni,a spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Lepthyphantes antroniensis,a money spider,EN,-
+Terrestrial invertebrates,insect - spider (Araneae),Mecynargus paetulus,a money spider,VU,-
+Terrestrial invertebrates,insect - spider (Araneae),Robertus scoticus,a spider,EN,-
+Terrestrial invertebrates,Insect - trichopteran,Hagenella clathrata,Window Winged Sedge,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Blera fallax,Pine Hoverfly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Chamaesyrphus caledonicus,a Hoverfly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Cheilosia sahlbergi,a Hoverfly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Doros profuges,Phantom Hoverfly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Hammerschmidtia ferruginea,Aspen Hoverfly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Nephrotoma aculeata,a cranefly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Parasyrphus nigritarsis,a Hoverfly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Prionocera pubescens,a cranefly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Rhamphomyia hirtula,Mountain Dance-fly,NT,-
+Terrestrial invertebrates,insect - true fly (Diptera),Rymosia speyae,a fungus gnat,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Sphaerophoria loewi,a Hoverfly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Stratiomys chamaeleon,a soldier fly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Strongylophthalmyia ustulata,a tanypezid fly,EN,-
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula bistilata,a cranefly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Tipula laetabilis,a cranefly,VU,-
+Terrestrial invertebrates,insect - true fly (Diptera),Wiedemannia simplex,a dance fly,EN,-
+Terrestrial invertebrates,mollusc,Omphiscola glabra,Mud Pond Snail,VU,-
+Terrestrial invertebrates,mollusc,Truncatellina cylindrica,Cylindrical Whorl Snail,VU,-
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) genesii,Round-mouthed Whorl Snail,NT,ELD
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) geyeri,Geyer's Whorl Snail,EN,ELD
+Terrestrial invertebrates,mollusc,Vertigo (Vertigo) modesta,Cross Whorl Snail,EN,-
+Terrestrial invertebrates,mollusc,Vertigo (Vertilla) angustior,Narrow-mouthed Whorl Snail,NT,ELD
+Aquatic invertebrates,annelid,Hirudo medicinalis,Medicinal Leech,NT,WCA 1981 3
+Aquatic invertebrates,crustacean,Austropotamobius pallipes,Freshwater White-clawed Crayfish,EN,WCA 1981 3
+Aquatic invertebrates,crustacean,Triops cancriformis,Tadpole Shrimp,EN,WCA 1981
+Aquatic invertebrates,insect - beetle (Coleoptera),Bidessus minutissimus,Minutest Diving Beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Gyrinus suffriani,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Helophorus (Cyphelophorus) tuberculatus,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydraena pulchella,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydraena pygmaea,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus elongatulus,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus glabriusculus,a water beetle,VU,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Hydroporus rufifrons,Oxbow Diving Beetle,EN,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Ilybius wasastjernae,a water beetle,EN,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Ochthebius (Ochthebius) lenensis,a water beetle,EN,-
+Aquatic invertebrates,insect - beetle (Coleoptera),Oreodytes alpinus,a water beetle,VU,-
+Aquatic invertebrates,insect - dragonfly (Odonata),Coenagrion hastulatum,Northern Damselfly,EN,-
+Aquatic invertebrates,mollusc,Margaritifera (Margaritifera) margaritifera,Freshwater Pearl Mussel,EN,WCA 1981 3
+Vascular plants,flowering plant,Allium oleraceum,Field Garlic,VU,-
+Vascular plants,flowering plant,Arabis alpina,Alpine Rock-cress,EN,WCA 1981
+Vascular plants,flowering plant,Arenaria norvegica,Arctic Sandwort,-,WCA 1981
+Vascular plants,flowering plant,Artemisia norvegica,Norwegian Mugwort,VU,-
+Vascular plants,flowering plant,Astragalus alpinus,Alpine Milk-vetch,VU,-
+Vascular plants,flowering plant,Bromus secalinus,Rye Brome,VU,-
+Vascular plants,flowering plant,Calamagrostis scotica,Scottish Small-reed,VU,-
+Vascular plants,flowering plant,Calamagrostis stricta,Narrow Small-reed,VU,-
+Vascular plants,flowering plant,Callitriche palustris,Narrow-fruited Water-starwort,VU,-
+Vascular plants,flowering plant,Campanula rapunculus,Rampion Bellflower,EN,-
+Vascular plants,flowering plant,Carex atrofusca,Scorched Alpine-sedge,VU,-
+Vascular plants,flowering plant,Carex buxbaumii,Club Sedge,VU,-
+Vascular plants,flowering plant,Carex microglochin,Bristle Sedge,VU,-
+Vascular plants,flowering plant,Carex recta,Estuarine Sedge,VU,-
+Vascular plants,flowering plant,Cerastium fontanum subsp. scoticum,Scottish Mouse-ear,VU,-
+Vascular plants,flowering plant,Cerastium nigrescens,Shetland Mouse-ear,EN,-
+Vascular plants,flowering plant,Cicerbita alpina,Alpine Blue-sow-thistle,VU,WCA 1981
+Vascular plants,flowering plant,Clinopodium acinos,Basil Thyme,VU,-
+Vascular plants,flowering plant,Crassula aquatica,Pigmyweed,VU,WCA 1981
+Vascular plants,flowering plant,Crepis mollis,Northern Hawk's-beard,EN,-
+Vascular plants,flowering plant,Dactylorhiza ebudensis,Hebridean Marsh-orchid,VU,-
+Vascular plants,flowering plant,Diapensia lapponica,Diapensia,VU,WCA 1981
+Vascular plants,flowering plant,Eleocharis parvula,Dwarf Spike-rush,-,WCA 1981
+Vascular plants,flowering plant,Erigeron borealis,Alpine Fleabane,VU,WCA 1981
+Vascular plants,flowering plant,Euphrasia anglica,English Sticky Eyebright,EN,-
+Vascular plants,flowering plant,Euphrasia campbelliae,an Eyebright,DD,-
+Vascular plants,flowering plant,Euphrasia marshallii,an Eyebright,EN,-
+Vascular plants,flowering plant,Euphrasia ostenfeldii,an Eyebright,DD,-
+Vascular plants,flowering plant,Euphrasia rostkoviana subsp. montana,an Eyebright,VU,-
+Vascular plants,flowering plant,Euphrasia rotundifolia,an Eyebright,EN,-
+Vascular plants,flowering plant,Gentiana nivalis,Alpine Gentian,NT,WCA 1981
+Vascular plants,flowering plant,Gentianella uliginosa,Dune Gentian,VU,WCA 1981
+Vascular plants,flowering plant,Hieracium attenuatifolium,Laxo Burn Hawkweed,CR,WCA 1981
+Vascular plants,flowering plant,Hieracium backhousei,Backhouse's Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium calvum,Bald-leaved Hawkweed,CR,-
+Vascular plants,flowering plant,Hieracium graniticola,Granite Hawkweed,CR,-
+Vascular plants,flowering plant,Hieracium grovesii,Grove's Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium insigne,Noble Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium kennethii,Kenneth's Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium larigense,Lairig Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium leptodon,Narrow-toothed Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium macrocarpum,Large-fruited Hawkweed,VU,-
+Vascular plants,flowering plant,Hieracium northroense,North Roe Hawkweed,VU,WCA 1981
+Vascular plants,flowering plant,Hieracium notabile,Remarkable Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium optimum,Splendid Hawkweed,CR,-
+Vascular plants,flowering plant,Hieracium pseudocurvatum,Cairngorm Hawkweed,CR,-
+Vascular plants,flowering plant,Hieracium pseudopetiolatum,Narrow-leaved Hawkweed,EN,-
+Vascular plants,flowering plant,Hieracium sect. Alpestria,Hawkweed,-,-
+Vascular plants,flowering plant,Hieracium zetlandicum,Shetland Hawkweed,DD,WCA 1981
+Vascular plants,flowering plant,Homogyne alpina,Purple Colt's-foot,EN,WCA 1981
+Vascular plants,flowering plant,Hydrilla verticillata,Hydrilla,VU,-
+Vascular plants,flowering plant,Hypochaeris glabra,Smooth Cat's-ear,VU,-
+Vascular plants,flowering plant,Luzula arcuata,Curved Wood-rush,VU,-
+Vascular plants,flowering plant,Lychnis alpina,Alpine Catchfly,VU,WCA 1981
+Vascular plants,flowering plant,Lythrum hyssopifolia,Grass-poly,EN,WCA 1981
+Vascular plants,flowering plant,Melampyrum sylvaticum,Small Cow-wheat,EN,-
+Vascular plants,flowering plant,Minuartia rubella,Mountain Sandwort,VU,-
+Vascular plants,flowering plant,Moneses uniflora,One-flowered Wintergreen,VU,-
+Vascular plants,flowering plant,Monotropa hypopitys,Yellow Bird's-nest,EN,-
+Vascular plants,flowering plant,Najas flexilis,Slender Naiad,-,"EPS 1,2,3"
+Vascular plants,flowering plant,Oenanthe fistulosa,Tubular Water-dropwort,VU,-
+Vascular plants,flowering plant,Ononis reclinata,Small Restharrow,-,WCA 1981
+Vascular plants,flowering plant,Oxytropis campestris,Yellow Oxytropis,VU,-
+Vascular plants,flowering plant,Phyllodoce caerulea,Blue Heath,VU,WCA 1981
+Vascular plants,flowering plant,Poa flexuosa,Wavy Meadow-grass,VU,-
+Vascular plants,flowering plant,Polygonatum verticillatum,Whorled Solomon's-seal,VU,WCA 1981
+Vascular plants,flowering plant,Potamogeton compressus,Grass-wrack Pondweed,EN,-
+Vascular plants,flowering plant,Potamogeton epihydrus,American Pondweed,VU,-
+Vascular plants,flowering plant,Potentilla rupestris,Rock Cinquefoil,EN,WCA 1981
+Vascular plants,flowering plant,Ranunculus arvensis,Corn Buttercup,CR,-
+Vascular plants,flowering plant,Ranunculus reptans,Creeping Spearwort,VU,-
+Vascular plants,flowering plant,Rumex aquaticus,Scottish Dock,VU,-
+Vascular plants,flowering plant,Sagina nivalis,Snow Pearlwort,VU,-
+Vascular plants,flowering plant,Salix lanata,Woolly Willow,VU,-
+Vascular plants,flowering plant,Saxifraga cernua,Drooping Saxifrage,VU,WCA 1981
+Vascular plants,flowering plant,Saxifraga cespitosa,Tufted Saxifrage,EN,WCA 1981
+Vascular plants,flowering plant,Saxifraga hirculus,Marsh Saxifrage,VU,"EPS 1,2,3"
+Vascular plants,flowering plant,Silene gallica,Small-flowered Catchfly,EN,-
+Vascular plants,flowering plant,Silene noctiflora,Night-flowering Catchfly,VU,-
+Vascular plants,flowering plant,Sorbus arranensis,Arran Whitebeam,VU,-
+Vascular plants,flowering plant,Sorbus pseudofennica,Arran Service-tree,VU,-
+Vascular plants,flowering plant,Taraxacum clovense,Clova Dandelion,VU,-
+Vascular plants,flowering plant,Taraxacum cymbifolium,Ben Lawes Dandelion,VU,-
+Vascular plants,flowering plant,Taraxacum geirhildae,Shetland Dandelion,VU,-
+Vascular plants,flowering plant,Taraxacum serpenticola,Serpentine Dandelion,VU,-
+Vascular plants,flowering plant,Taraxacum xiphoideum,Parallel-leaved Dandelion,VU,-
+Vascular plants,fern,Cystopteris dickieana,Dickie's Bladder-fern,VU,WCA 1981
+Vascular plants,fern,Trichomanes speciosum,Killarney Fern,-,"EPS 1,2,3"
+Vascular plants,fern,Woodsia alpina,Alpine Woodsia,VU,WCA 1981
+Vascular plants,fern,Woodsia ilvensis,Oblong Woodsia,EN,WCA 1981
+Non vascular plants,stonewort,Chara baltica,Baltic Stonewort,VU,-
+Non vascular plants,stonewort,Chara canescens,Bearded Stonewort,EN,WCA 1981
+Non vascular plants,stonewort,Lamprothamnium papulosum,Foxtail Stonewort,NT,WCA 1981
+Non vascular plants,stonewort,Nitella gracilis,Slender Stonewort,VU,-
+Non vascular plants,stonewort,Tolypella nidifica,Bird's-nest Stonewort,EN,-
+Non vascular plants,liverwort,Adelanthus lindenbergianus,Lindenberg's Featherwort,EN,WCA 1981
+Non vascular plants,liverwort,Anastrophyllum saxicola,Curled Notchwort,VU,-
+Non vascular plants,liverwort,Athalamia hyalina,a liverwort,VU,-
+Non vascular plants,liverwort,Barbilophozia kunzeana,Bog Pawwort,VU,-
+Non vascular plants,liverwort,Cephalozia ambigua,Snow Pincerwort,VU,-
+Non vascular plants,liverwort,Dumortiera hirsuta,Dumortier's Liverwort,VU,-
+Non vascular plants,liverwort,Geocalyx graveolens,Turps Pouchwort,VU,WCA 1981
+Non vascular plants,liverwort,Gymnocolea acutiloba,Welsh Notchwort,VU,-
+Non vascular plants,liverwort,Gymnomitrion apiculatum,Pointed Frostwort,VU,WCA 1981
+Non vascular plants,liverwort,Herbertus borealis,Northern Prongwort,VU,-
+Non vascular plants,liverwort,Jamesoniella undulifolia,Marsh Flapwort,EN,WCA 1981
+Non vascular plants,liverwort,Jungermannia leiantha,Long-leaved Flapwort,CR,-
+Non vascular plants,liverwort,Jungermannia polaris,Arctic Flapwort,VU,-
+Non vascular plants,liverwort,Leiocolea rutheana var. rutheana,Fen Notchwort,EN,-
+Non vascular plants,liverwort,Lejeunea holtii,Holt's Pouncewort,VU,-
+Non vascular plants,liverwort,Lejeunea mandonii,Atlantic Pouncewort,EN,-
+Non vascular plants,liverwort,Lophozia wenzelii,Wenzel's Notchwort,VU,-
+Non vascular plants,liverwort,Marsupella arctica,Arctic Rustwort,VU,-
+Non vascular plants,liverwort,Marsupella boeckii,Boeck's Rustwort,VU,-
+Non vascular plants,liverwort,Marsupella sparsifolia,Rounded Rustwort,VU,-
+Non vascular plants,liverwort,Odontoschisma macounii,Macoun's Flapwort,VU,-
+Non vascular plants,liverwort,Petalophyllum ralfsii,Petalwort,-,WCA 1981 3
+Non vascular plants,liverwort,Radula carringtonii,Carrington's Scalewort,VU,-
+Non vascular plants,liverwort,Riccia canaliculata,Channelled Crystalwort,VU,-
+Non vascular plants,liverwort,Scapania praetervisa,Ciliate Earwort,VU,-
+Non vascular plants,moss,Andreaea frigida,Icy Rock-moss,VU,-
+Non vascular plants,moss,Andreaea nivalis,Snow Rock-moss,VU,-
+Non vascular plants,moss,Anomodon attenuatus,Slender Tail-moss,CR,-
+Non vascular plants,moss,Anomodon longifolius,Long-leaved Tail-moss,EN,WCA 1981
+Non vascular plants,moss,Aplodon wormskjoldii,Carrion-moss,CR,-
+Non vascular plants,moss,Blindia caespiticia,Dwarf Blindia,VU,-
+Non vascular plants,moss,Brachythecium starkei,Starke's Feather-moss,EN,-
+Non vascular plants,moss,Brachythecium trachypodium,Lawers Feather-moss,CR,-
+Non vascular plants,moss,Bryum calophyllum,Blunt Bryum,EN,-
+Non vascular plants,moss,Bryum cyclophyllum,Round-leaved Bryum,EN,-
+Non vascular plants,moss,Bryum knowltonii,Knowlton's Thread-moss,VU,-
+Non vascular plants,moss,Bryum marratii,Baltic Bryum,EN,-
+Non vascular plants,moss,Bryum salinum,Saltmarsh Thread-moss,EN,-
+Non vascular plants,moss,Bryum schleicheri var. latifolium,Schleicher's Thread-moss,CR,-
+Non vascular plants,moss,Bryum warneum,Warne's Thread-moss,VU,-
+Non vascular plants,moss,Buxbaumia viridis,Green Shield-Moss,EN,WCA 1981 3
+Non vascular plants,moss,Campylophyllum halleri,Haller's Feather-moss,VU,-
+Non vascular plants,moss,Cirriphyllum cirrosum,Tendril Feather-moss,VU,-
+Non vascular plants,moss,Ctenidium procerrimum,Alpine Comb-moss,VU,-
+Non vascular plants,moss,Cyclodictyon laetevirens,Bright-green Cave-moss,EN,WCA 1981
+Non vascular plants,moss,Cynodontium tenellum,Delicate Dog-tooth,VU,-
+Non vascular plants,moss,Daltonia splachnoides,Irish Daltonia,VU,-
+Non vascular plants,moss,Dicranella grevilleana,Greville's Forklet-moss,VU,-
+Non vascular plants,moss,Dicranum bergeri,Waved Fork-moss,VU,-
+Non vascular plants,moss,Funaria pulchella,Pretty Cord-moss,VU,-
+Non vascular plants,moss,Grimmia anodon,Toothless Grimmia,EX,-
+Non vascular plants,moss,Grimmia elongata,Brown Grimmia,EN,-
+Non vascular plants,moss,Grimmia tergestina,Dapple-mouthed Grimmia,VU,-
+Non vascular plants,moss,Grimmia ungeri,a Grimmia,EN,-
+Non vascular plants,moss,Grimmia unicolor,Dingy Grimmia,VU,WCA 1981
+Non vascular plants,moss,Habrodon perpusillus,Lesser Squirrel-tail moss,EN,-
+Non vascular plants,moss,Hamatocaulis vernicosus,Varnished Hook-moss,-,WCA 1981 3
+Non vascular plants,moss,Heterocladium dimorphum,Dimorphous Tamarisk-moss,VU,-
+Non vascular plants,moss,Homomallium incurvatum,Incurved Feather-moss,CR,-
+Non vascular plants,moss,Hygrohypnum molle,Soft Brook-moss,VU,-
+Non vascular plants,moss,Hygrohypnum polare,Polar Brook-moss,EN,WCA 1981
+Non vascular plants,moss,Hygrohypnum smithii,Arctic Brook-moss,VU,-
+Non vascular plants,moss,Hygrohypnum styriacum,Snow Brook-moss,CR,-
+Non vascular plants,moss,Hypnum revolutum,Revolute Plait-moss,EN,-
+Non vascular plants,moss,Hypnum vaucheri,Vaucher's Plait-moss,VU,WCA 1981
+Non vascular plants,moss,Mielichhoferia elongata,Elongate Copper-moss,VU,-
+Non vascular plants,moss,Mielichhoferia mielichhoferiana,Alpine Copper-moss,EN,WCA 1981
+Non vascular plants,moss,Mnium ambiguum,Ambiguous Thyme-moss,VU,-
+Non vascular plants,moss,Myurella tenerrima,Dwarf Mouse-tail Moss,EN,-
+Non vascular plants,moss,Orthodontium gracile,Slender Thread-moss,VU,-
+Non vascular plants,moss,Orthotrichum gymnostomum,Aspen Bristle-moss,VU,-
+Non vascular plants,moss,Orthotrichum obtusifolium,Blunt-leaved Bristle-moss,VU,WCA 1981
+Non vascular plants,moss,Orthotrichum pallens,Pale Bristle-moss,EN,-
+Non vascular plants,moss,Orthotrichum pumilum,Dwarf Bristle-moss,EN,-
+Non vascular plants,moss,Plagiobryum demissum,Alpine Hump-moss,EN,-
+Non vascular plants,moss,Pohlia obtusifolia,Blunt-leaved Thread-moss,EN,-
+Non vascular plants,moss,Pohlia scotica,Scottish Thread-moss,VU,-
+Non vascular plants,moss,Pseudoleskea incurvata,Brown Mountain Leskea,VU,-
+Non vascular plants,moss,Pseudoleskeella nervosa,Nerved Leskea,CR,-
+Non vascular plants,moss,Ptychodium plicatum,Plaited Leskea,VU,-
+Non vascular plants,moss,Racomitrium himalayanum,Himalayan Fringe-moss,VU,-
+Non vascular plants,moss,Saelania glaucescens,Blue Dew-moss,VU,WCA 1981
+Non vascular plants,moss,Schistidium atrofuscum,Black Mountain Grimmia,VU,-
+Non vascular plants,moss,Scorpidium turgescens,Turgid Scorpion-moss,VU,WCA 1981
+Non vascular plants,moss,Seligeria diversifolia,Long Rock-bristle,VU,-
+Non vascular plants,moss,Sphagnum balticum,Baltic Bog-moss,EN,WCA 1981
+Non vascular plants,moss,Sphagnum majus,Olive Bog-moss,VU,-
+Non vascular plants,moss,Stegonia latifolia,Hood-leaved Screw-moss,VU,-
+Non vascular plants,moss,Syntrichia norvegica,Norway Screw-moss,VU,-
+Non vascular plants,moss,Tayloria lingulata,Tongue-leaved Gland-moss,EN,-
+Non vascular plants,moss,Tayloria tenuis,Slender Gland-moss,CR,-
+Non vascular plants,moss,Timmia austriaca,Sheathed Timmia,EN,-
+Non vascular plants,moss,Tortella fragilis,Brittle Crisp-moss,VU,-
+Non vascular plants,moss,Tortula leucostoma,Alpine Pottia,VU,-
